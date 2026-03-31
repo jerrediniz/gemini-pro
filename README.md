@@ -1,7 +1,9 @@
 # gemini-pro
+
 A Gemini Pro é a nossa convidada projeto ada
-quem é Ada Lovelace
-22 horas atrás
+
+Quem é Ada Lovelace?
+
 Ada Lovelace (1815–1852), nascida Augusta Ada Byron, foi uma matemática e escritora inglesa reconhecida mundialmente como a primeira programadora da história. 
 Ctrl + Play
 Ctrl + Play
